@@ -2,7 +2,7 @@
 
 This application compares two objects to check which one is more popular among Twitter users. 
 
-# User Story: Before purchasing anything, I make sure that I do good research and read multiple reviews. If I am confused between two things, I would like to check which one is more popular among twitter users. I want to be able to compare two words. Based on which one is more popular, I plan to make my final deicsion.
+User Story: Before purchasing anything, I make sure that I do good research and read multiple reviews. If I am confused between two things, I would like to check which one is more popular among twitter users. I want to be able to compare two words. Based on which one is more popular, I plan to make my final deicsion.
 
 The program works in the following way: 
 1. User input two keywords that they want to compare. 
