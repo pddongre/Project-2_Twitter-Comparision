@@ -6,6 +6,6 @@ User Story: Before purchasing anything, I make sure that I do good research and 
 
 The program works in the following way: 
 1. User input two keywords that they want to compare. 
-2. The program downloads the latest, real-time tweets using the Twitter API. 
-3. TextBlob library is used for calculating the tweets' sentiments - specifies how people feel about the 2 things. 
+2. The program downloads the latest, real-time tweets using the Twitter API and Tweepy Library. 
+3. TextBlob library uses NLP to calculate the sentiments for the tweets - specifies how people feel about the 2 things. 
 4. Finally, the program compares the scores of the 2 keywords and tells the user which one people prefer at this point in time. 
